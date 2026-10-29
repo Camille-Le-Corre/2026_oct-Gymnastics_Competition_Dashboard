@@ -17,7 +17,7 @@ Les données viennent de deux sources publiques :
   add_data.py                 insertions communes aux deux scripts
   clean_db.py                 harmonisation des noms et fusion des doublons
   Competitions_gym.db
-2_data_viz/
+2_data_visualization/
   app.py                      filtres et onglets
   data.py                     chargement de la base
   views.py                    vues gymnaste, équipe et club
@@ -27,7 +27,7 @@ Les données viennent de deux sources publiques :
 
 ```
 pip install -r requirements.txt
-cd 2_data_viz
+cd 2_data_visualization
 streamlit run app.py
 ```
 

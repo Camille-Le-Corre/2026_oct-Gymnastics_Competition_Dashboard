@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+1_data_extraction/data/
+*.db
+!1_data_extraction/Competitions_gym.db
